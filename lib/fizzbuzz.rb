@@ -4,6 +4,8 @@ class Calculator
 			return 1
 		elsif num == 2
 			return 2
+		else num == 3
+			return "fizz"
 		end
 	end
 end
