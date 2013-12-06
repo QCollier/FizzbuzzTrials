@@ -4,5 +4,6 @@ class Calculator
 			return 1
 		elsif num == 2
 			return 2
+		end
 	end
 end
